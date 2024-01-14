@@ -1,0 +1,13 @@
+﻿{
+    "Physio30": 25,
+    "Physio60": 30,
+    "Physio90": 40,
+    "ManPhysio30": 35,
+    "ManPhysio45": 45,
+    "ManPhysio60": 50,
+    "ManPhysio90": 60,
+    "Electric15": 10,
+    "Electric30": 15,
+    "KinesioSingleArea": 7,
+    "KinesioExtraArea": 12
+}
