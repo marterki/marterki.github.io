@@ -1,1 +1,0 @@
-import{m as a,S as e,T as n,G as p,H as r}from"./KaTgO7Az.js";const c=a({name:"HtmlParagraph",props:{...e,tag:{type:String,default:"p"}},setup(t,o){const s=n(t);return()=>p(t.tag,r(s),o.slots)}});export{c as _};
