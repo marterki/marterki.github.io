@@ -1,0 +1,1 @@
+import{l as a,B as e,u as n,t as p,v as r}from"./Dox43mm5.js";const c=a({name:"HtmlParagraph",props:{...e,tag:{type:String,default:"p"}},setup(t,o){const s=n(t);return()=>p(t.tag,r(s),o.slots)}});export{c as _};
