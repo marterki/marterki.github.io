@@ -1,0 +1,1 @@
+import{_,o,c as t,a as n}from"./C-K8EVyT.js";const s={},r={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink"};function l(c,e){return o(),t("svg",r,[...e[0]||(e[0]=[n("path",{"fill-rule":"evenodd",d:"M8 13A5 5 0 1 0 8 3a5 5 0 0 0 0 10"},null,-1)])])}const i=_(s,[["render",l]]);export{i as default};
