@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o,a as s}from"./C-K8EVyT.js";const n={},a={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink"};function r(c,_){return t(),o("svg",a,[..._[0]||(_[0]=[s("path",{d:"M3 5a3 3 0 0 0 0 6h10a3 3 0 1 0 0-6zm.5 2.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1 0-1"},null,-1)])])}const i=e(n,[["render",r]]);export{i as default};

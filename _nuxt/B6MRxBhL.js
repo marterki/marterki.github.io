@@ -1,1 +1,0 @@
-import{_,o,c as t,a as n}from"./C-K8EVyT.js";const r={},s={xmlns:"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink"};function c(l,e){return o(),t("svg",s,[...e[0]||(e[0]=[n("circle",{cx:"8",cy:"8",r:"8"},null,-1)])])}const a=_(r,[["render",c]]);export{a as default};
